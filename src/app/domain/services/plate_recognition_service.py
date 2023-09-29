@@ -32,4 +32,4 @@ class PlateRecognitionService:
         plate_number = None
         for contour in contours:
             # Aproxime o contorno
-            peri = cv
+            peri = cv2
